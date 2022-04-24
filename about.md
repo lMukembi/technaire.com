@@ -1,1 +1,1 @@
-Technaire.com is a computer technology review site.
+Technaire.com is a computer technology reviews site.
